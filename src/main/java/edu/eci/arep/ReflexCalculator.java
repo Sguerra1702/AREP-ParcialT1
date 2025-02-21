@@ -14,7 +14,7 @@ public class ReflexCalculator {
         try{
             ServerSocket serverSocket = null;
             try {
-                serverSocket = new ServerSocket(36000);
+                serverSocket = new ServerSocket(45000);
             } catch (IOException e) {
                 System.err.println("Could not listen on port: 35000.");
                 System.exit(1);

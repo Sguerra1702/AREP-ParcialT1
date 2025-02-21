@@ -9,3 +9,5 @@ git clone https://github.com/Sguerra1702/AREP-ParcialT1.git
 cd AREP-ParcialT1.git
 ```
 2. Con el IDE de su preferencia, abrir el proyecto y primero ejecutar las clase ``` FacadeWebServer.java ``` y posteriormente la clase ``` ReflexCalulator.java ```
+
+3. Colocar en el navegador localhost:35000/calculadora
